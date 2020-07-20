@@ -1,0 +1,1 @@
+Hello world, My name is Gideon McFarland and I am writing this bio as a part of the USRP bootcamp. I hope to do work involving cosmology and theory for my research projects. Im from Texas and I love writing and composing music. That's all about me!
